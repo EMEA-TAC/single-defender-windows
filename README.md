@@ -1,4 +1,5 @@
 Single-Defender
+
 The Single-Defender Terraform script is designed to deploy and configure a Google Compute Instance with Ubuntu 18.04 LTS (customizable to meet your specific version requirements), pre-configured with a Defender agent for enhanced security. The script utilizes an API token for secure authentication to download and install the Defender agent from a specified location.
 
 Prerequisites
